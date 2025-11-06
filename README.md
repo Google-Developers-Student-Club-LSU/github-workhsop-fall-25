@@ -3,7 +3,6 @@
 Welcome to the **GitHub Workshop Calculator Project!**  
 This repository is designed to help you learn and practice **Git version control**, **branching**, **collaboration**, and **merging workflows** — all while contributing simple code in **Python** or **Java**.
 
-
 ## 📁 Project Structure
 
 ```
@@ -124,4 +123,3 @@ Here are some ideas to extend the calculator:
 ## 🧾 License
 
 This project is licensed under the [MIT License](LICENSE).
-
