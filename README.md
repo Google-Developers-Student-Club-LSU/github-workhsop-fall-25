@@ -99,7 +99,7 @@ Here are some ideas to extend the calculator:
 ## 🪄 Best Practices to Follow
 
 * Always **create branches** for new features or bug fixes.
-* Use (conventional commits)[https://www.conventionalcommits.org/en/v1.0.0] for commit messages.
+* Use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0) for commit messages.
 
 ---
 
