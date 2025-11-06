@@ -7,5 +7,6 @@ public class Calculator {
         System.out.println("Subtract: " + Operations.subtract(a, b));
         System.out.println("Multiply: " + Operations.multiply(a, b));
         System.out.println("Divide: " + Operations.divide(a, b));
+        System.out.println("Modulus: " + Operations.mod(a, b));
     }
 }

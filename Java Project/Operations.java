@@ -20,5 +20,15 @@ public class Operations {
         return (double) a / b;
     }
 
+    public static int mod(int a, int b) {
+        if (b == 0) {
+            System.out.println("Error: Modulus by zero!");
+            return 0;
+        } else {
+            return a % b;
+        }
+        }
+    }
+
     //todo: add future operations here in branch called 'adding-{name of operation}-operation'
-}
+
